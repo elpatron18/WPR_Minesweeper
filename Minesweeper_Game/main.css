@@ -42,32 +42,6 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.popup-content {
-    background-color: white;
-    margin: 40vh auto;
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%;
-    max-width: 600px;
-    position: relative;
-
-    text-align: center;
-    font-size: 2rem;
-    font-weight: bold;
-    color: red;
-}
-
-.close {
-    position: absolute;
-    top: 0;
-    right: 7px;
-    font-size: 28px;
-    font-weight: bold;
-    color: #000;
-
-    cursor: pointer;
-}
-
 .zero {
     background-color: lightgray;
 }
